@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Experience
+---
+- 부스트캠프 웹·모바일 6기 멤버쉽(2021.08.23 ~ 2021.12.03)
+- 부스트캠프 웹·모바일 6기 챌린지(2021.07.19 ~ 2021.08.13) 
